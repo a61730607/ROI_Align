@@ -42,3 +42,5 @@ mxnet 实现  https://github.com/SidHard/mxnet/blob/f95832d73cf3f1413ce1c77fbef0
 
         四点采样 非bin_size的中心点 如图    max pooling 方式 插值
         argmax_x 记录该点 的 maxidx_x maxidx_y
+
+新增 Facebook官方实现 caffe2 
